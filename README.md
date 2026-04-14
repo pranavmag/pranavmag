@@ -1,4 +1,4 @@
-# 🚀 Pranav Maguluru (Nav)
+# 🚀 Nav
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=Systems+Programming.;Bare-Metal+Engineering.;High-Performance+Computing." alt="Typing SVG" /></a>
 
@@ -29,7 +29,8 @@ I actively share my research, projects, and deep dives into binary logic on my Y
 
 ### 🎬 Latest YouTube Videos
 
----
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 <details>
     <summary><b>🛠️ Languages and Tools</b></summary>
