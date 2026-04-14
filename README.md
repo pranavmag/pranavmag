@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=Systems+Programming.;Bare-Metal+Engineering.;High-Performance+Computing." alt="Typing SVG" /></a>
 
-**`Systems Programmer & Educator`**
+**`Systems Programmer Learner`**
 
 * 🌍 Information Technology Student @ USF Bellini College
 * ✉️ You can contact me at [nootnavdev@gmail.com](mailto:nootnavdev@gmail.com)
