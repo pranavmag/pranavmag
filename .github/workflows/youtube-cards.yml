@@ -9,7 +9,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCc3F5b9XJ4-o1ES47Pp9Epg
