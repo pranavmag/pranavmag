@@ -4,7 +4,7 @@
 
 **`Systems Programmer Learner`**
 
-* 🌍 Information Technology Student @ USF Bellini College
+* 🌍 Information Technology Student
 * ✉️ You can contact me at [nootnavdev@gmail.com](mailto:nootnavdev@gmail.com)
 * 🧠 Languages I learn or master: C++, Python, RISC-V Assembly
 * 🤔 My other software related interests: High-Performance Computing (HPC), Compilers, Emulators, Database Internals
