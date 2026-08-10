@@ -1,14 +1,14 @@
 # 🚀 Nav
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=Systems+Programming.;Bare-Metal+Engineering.;High-Performance+Computing." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=Systems+Programming.;Database-Engineering.;High-Performance+Computing." alt="Typing SVG" /></a>
 
 **`Systems Programmer Learner`**
 
 * 🌍 Information Technology Student
 * ✉️ You can contact me at [nootnavdev@gmail.com](mailto:nootnavdev@gmail.com)
-* 🧠 Languages I learn or master: C++, Python, RISC-V Assembly
+* 🧠 Languages I learn or master: C++, Rust, Python, RISC-V Assembly
 * 🤔 My other software related interests: High-Performance Computing (HPC), Compilers, Emulators, Database Internals
-* 🔭 Currently working on: A RISC-V Emulator in C++
+* 🔭 Currently working on: DB Internals
 
 ### 🔗 Connect With Me
 
